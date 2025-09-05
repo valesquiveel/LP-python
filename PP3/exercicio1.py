@@ -5,7 +5,7 @@ somai = 0
 somap = 0
 print('Digite [0] para sair da repetição')
 while True:
-    valor = float(input(f'Digite o {ct + 1} número: '))
+    valor = float(input(f'Digite o {ct + 1}º número: '))
     if valor == 0:
         break
     ct += 1
